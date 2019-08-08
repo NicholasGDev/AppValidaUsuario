@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppValidaUsuario</string>
+    <string name="usu">Usuário</string>
+    <string name="pwd">Senha</string>
+    <string name="respUsu">Hello World!</string>
+    <string name="voltar">Voltar</string>
+</resources>
